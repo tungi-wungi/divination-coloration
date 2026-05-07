@@ -1,0 +1,29 @@
+#outfitResults {
+  position: relative;
+  width: 100%;
+  height: 620px;
+  margin-top: 24px;
+  border: 1px solid #ddd;
+  background: #f5f0ea;
+  overflow: hidden;
+}
+
+.outfit-card {
+  position: absolute;
+  width: 260px;
+  background: white;
+  border: 1px solid #ddd;
+  padding: 10px;
+  cursor: grab;
+  user-select: none;
+}
+
+.outfit-card:active {
+  cursor: grabbing;
+}
+
+.outfit-card img {
+  width: 100%;
+  height: auto;
+  display: block;
+}

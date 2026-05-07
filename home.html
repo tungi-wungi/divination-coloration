@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Color Fortune</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <h1>Color Fortune</h1>
+
+  <label>Day of the week</label>
+  <select id="daySelect">
+    <option value="sunday">Sunday</option>
+    <option value="monday">Monday</option>
+    <option value="tuesday">Tuesday</option>
+    <option value="wednesday">Wednesday</option>
+    <option value="thursday">Thursday</option>
+    <option value="friday">Friday</option>
+    <option value="saturday">Saturday</option>
+  </select>
+
+  <label>Occasion</label>
+  <select id="fortuneSelect">
+    <option value="work">Work</option>
+    <option value="money">Money</option>
+    <option value="love">Love</option>
+    <option value="family">Family</option>
+    <option value="health">Health</option>
+    <option value="luck">Luck</option>
+    <option value="travel">Travel</option>
+    <option value="unlucky">Unlucky</option>
+  </select>
+
+  <button id="searchButton">Find Colors</button>
+
+  <p id="status">Choose a day and occasion.</p>
+
+  <div id="colorResults"></div>
+  <div id="outfitResults"></div>
+
+  <script src="script.js"></script>
+</body>
+</html>

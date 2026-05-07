@@ -1,0 +1,72 @@
+{
+  "sunday": {
+    "work": ["orange", "dark red", "pink"],
+    "money": ["black", "gray", "purple"],
+    "love": ["mint green", "pink", "green"],
+    "family": ["beige", "orange", "yellow"],
+    "health": ["yellow", "cream", "white"],
+    "luck": ["lavender", "gray", "dark gray"],
+    "travel": ["bright red", "brown", "yellow"],
+    "unlucky": ["light blue", "navy blue"]
+  },
+  "monday": {
+    "work": ["mint green", "light yellow", "blue"],
+    "money": ["orange", "brown", "yellow"],
+    "love": ["black", "gray", "purple"],
+    "family": ["dark blue", "navy blue", "blue"],
+    "health": ["pink", "gray", "light pink"],
+    "luck": ["white", "light orange", "bright orange"],
+    "travel": ["brown", "dark brown", "light brown"],
+    "unlucky": ["dark red", "magenta", "bright orange"]
+  },
+  "tuesday": {
+    "work": ["dark gray", "black", "dark purple"],
+    "money": ["gray", "light brown", "dark brown"],
+    "love": ["beige", "dark orange", "yellow"],
+    "family": ["dark red", "red"],
+    "health": ["mint green", "pink", "blue"],
+    "luck": ["gray", "bright red", "hot pink"],
+    "travel": ["blue", "dark blue", "light blue"],
+    "unlucky": ["yellow", "cream", "white"]
+  },
+  "wednesday": {
+    "work": ["orange", "dark orange", "light yellow"],
+    "money": ["blue", "dark blue", "light blue"],
+    "love": ["dark brown", "brown", "light brown"],
+    "family": ["light yellow", "cream", "white"],
+    "health": ["lavender", "gray", "dark gray"],
+    "luck": ["blue", "mint green", "light green"],
+    "travel": ["dark red", "hot pink", "dark orange"],
+    "unlucky": ["pink", "dark red", "light pink"]
+  },
+  "thursday": {
+    "work": ["blue", "dark blue", "light blue"],
+    "money": ["yellow", "cream", "white"],
+    "love": ["red", "orange", "dark red"],
+    "family": ["mint green", "light green", "blue"],
+    "health": ["light brown", "brown", "gray"],
+    "luck": ["light yellow", "yellow", "dark orange"],
+    "travel": ["pink", "bright red", "light pink"],
+    "unlucky": ["black", "dark gray", "dark purple"]
+  },
+  "friday": {
+    "work": ["yellow", "light yellow", "white"],
+    "money": ["blue", "green", "mint green"],
+    "love": ["pink", "dark orange", "magenta"],
+    "family": ["orange", "dark orange", "cream"],
+    "health": ["dark red", "dark orange", "hot pink"],
+    "luck": ["blue", "navy blue", "green"],
+    "travel": ["black", "dark gray", "dark purple"],
+    "unlucky": ["gray", "light brown", "dark brown"]
+  },
+  "saturday": {
+    "work": ["dark brown", "light brown", "dark gray"],
+    "money": ["magenta", "dark orange", "red"],
+    "love": ["navy blue", "light blue", "blue"],
+    "family": ["bright red", "dark orange", "magenta"],
+    "health": ["yellow", "dark orange", "orange"],
+    "luck": ["pink", "light pink", "dark red"],
+    "travel": ["yellow", "cream", "white"],
+    "unlucky": ["mint green", "blue", "dark green"]
+  }
+}
